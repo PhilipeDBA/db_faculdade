@@ -91,3 +91,14 @@ DESCRIBE curso_disciplina;
 DESCRIBE disciplina_historico;
 
 DESCRIBE aluno_disciplina;
+
+
+ALTER TABLE
+    departamento
+MODIFY
+    COLUMN nome_departamento CHAR(50);
+
+ALTER TABLE
+    disciplina
+MODIFY
+    COLUMN nome_disciplina CHAR(50);
