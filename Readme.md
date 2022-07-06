@@ -1,4 +1,4 @@
-Comandos básicos do Git
+Comandos básicos do Git<br>
 git init -> inicia o git;
 git status -> verificar se tem algum arquivo disponível para ser publicação;
 git add . nome_arquivo -> prepara o arquivo para publicação;
